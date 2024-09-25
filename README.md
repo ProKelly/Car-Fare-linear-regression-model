@@ -11,3 +11,6 @@ building a car fare linear regression model with keras + numpy + pandas + seabor
 ## predictions and actual labels
 
 ![Screenshot from 2024-09-25 15-59-05](https://github.com/user-attachments/assets/04019542-d774-47ec-990e-2c2173e05352)
+
+
+run  the code within the optimizedcode.py file in google colab
